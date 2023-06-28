@@ -5,7 +5,7 @@ A simple application tensorflow
 ## Installation
 
 ```bash
-yarn or npm install
+npm install
 ```
 
 ## Run
